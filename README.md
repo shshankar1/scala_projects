@@ -1,4 +1,4 @@
-# scala_projects
+# My Scala Projects
 Requirement to run projects locally:
 1. SBT : Install version 0.13.15 (Create environment system variable SBT_HOME: C:\Program Files (x86)\sbt\)
 2. Scala: Install version 2.11.8 (set SCALA_HOME environment system variable, add it to path also)
