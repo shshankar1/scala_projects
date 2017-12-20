@@ -1,4 +1,6 @@
 What is an nGram?
+
+
 N-grams are simply all combinations of adjacent words or letters of length n
 that you can find in your source text.
 
