@@ -1,4 +1,4 @@
-package series1.example.ngram
+package series1.module1.example.ngram
 
 import org.apache.spark.ml.feature.NGram
 import org.apache.spark.sql.SQLContext
