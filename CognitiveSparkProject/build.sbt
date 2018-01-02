@@ -1,3 +1,5 @@
+import sbt.complete.Parsers._
+
 scalaVersion := "2.11.8"
 
 name := "Cognitive Spark Project"
