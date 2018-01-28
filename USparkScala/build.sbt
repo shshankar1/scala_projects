@@ -1,5 +1,3 @@
-import sbt.complete.Parsers._
-
 scalaVersion := "2.11.8"
 
 name := "USparkScala Project"
