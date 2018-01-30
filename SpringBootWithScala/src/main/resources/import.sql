@@ -1,0 +1,5 @@
+-- insert into product(id, name, price, mfgDate) values (1, 'Santoor Soap', 25, '2018-01-12');
+-- insert into product(id, name, price, mfgDate) values (2, 'Milk', 18, '2018-01-15');
+-- insert into product(id, name, price, mfgDate) values (3, 'Almond', 235, '2018-01-18');
+-- insert into product(id, name, price, mfgDate) values (4, 'Water Filter', 2678, '2017-12-15');
+-- insert into product(id, name, price, mfgDate) values (5, 'Knife', 124, '2018-01-18');

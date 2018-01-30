@@ -1,0 +1,9 @@
+logging:
+  config: "classpath:config/log4j2-spring.xml"
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    url: jdbc:h2:mem:scratchdb
